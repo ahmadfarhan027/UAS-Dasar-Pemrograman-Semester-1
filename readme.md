@@ -1,11 +1,12 @@
 # Ujian Akhir Semester 
-<br> Mata Kuliah: Dasar Pemrograman
-<br> Nama	: Ahmad Farhan
-<br> NIM	:	1227050010
-<br> Jurusan	: [Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
+<br> Mata Kuliah &ensp; &ensp;: Dasar Pemrograman
+<br> Nama &emsp;&emsp;&emsp;&emsp;: Ahmad Farhan
+<br> NIM &emsp;&emsp;&emsp;&emsp; &ensp;: 1227050010
+<br> Jurusan &emsp;&emsp; &ensp; &nbsp;: [Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
 ## Deskripsi Umum
-
+Nomor 1 <br>
+Program Nomor 1 merupakan program array 2 dimensi dengan tujuan membalik Nilai Matriks (Transpos)  
 ## Source Code
 Nomor 1
 ```cpp
