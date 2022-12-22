@@ -1,8 +1,8 @@
 # Ujian Akhir Semester 
-<br> Mata Kuliah 	: Dasar Pemrograman
-<br> Nama		      : Ahmad Farhan
-<br> NIM		      :	1227050010
-<br> Jurusan		  :[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
+<br> Mata Kuliah: Dasar Pemrograman
+<br> Nama	: Ahmad Farhan
+<br> NIM	:	1227050010
+<br> Jurusan	: [Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
 ## Deskripsi Umum
 
@@ -111,3 +111,5 @@ int main() {
 ## Output
 <br> Nomor 1 <br>
 <img src= "https://github.com/ahmadfarhan027/UAS-Dasar-Pemrograman-Semester-1/blob/main/Output%20No.1.png">
+<br> Nomor 2 <br>
+<img src= "https://github.com/ahmadfarhan027/UAS-Dasar-Pemrograman-Semester-1/blob/main/Output%20No.2.png">
