@@ -109,3 +109,5 @@ int main() {
 }
 ```
 ## Output
+<br> Nomor 1 <br>
+<img src= "https://github.com/ahmadfarhan027/UAS-Dasar-Pemrograman-Semester-1/blob/main/Output%20No.1.png">
