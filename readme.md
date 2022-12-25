@@ -5,8 +5,11 @@
 <br> Jurusan &emsp;&emsp; &ensp; &nbsp;: [Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
 ## Deskripsi Umum
-Nomor 1 <br>
-Program Nomor 1 merupakan program array 2 dimensi dengan tujuan membalik Nilai Matriks (Transpos)  
+Ujian Akhir Semester 1 Dasar Pemrograman terdiri dari 2 soal program :
+<br> Nomor 1 <br>
+Program Nomor 1 merupakan program array 2 dimensi dengan tujuan membalik Nilai Matriks (Transpos) yang di telah inputkan. Artinya nilai kolom pada matriks tersebut akan diubah menjadi nilai baris pada matriks itupula-, begitupun sebaliknya (kolom jadi baris; baris jadi kolom). Selain itu, banyak kolom dan baris bisa di inputkan dengan batas 0-20. 
+<br> Nomor 2 <br>
+Pada Program Nomor 2 ialah jenis program array 2 dimensi dengan maksud menampilkan output deret matematika dari matriks yang di inputkan dengan syarat bilangan output yang ditampilkan merupakan bilangan yang tidak habis dibagi 3, 5, dan 7. Banyak kolom dan baris yang  diinputkan dengan batas 0-20 baris/kolom. 
 ## Source Code
 Nomor 1
 ```cpp
